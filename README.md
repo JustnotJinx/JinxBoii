@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HE/ME
 - ⚡ Fun fact: ...
 -->
+
+
+!JinxBoii](https://github-readme-stats.vercel.app/api?username=Jinxboii&show_icons=true&theme=radical)
