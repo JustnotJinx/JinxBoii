@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-![JinxBoii](https://github-readme-stats.vercel.app/api?username=Jinxboii&show_icons=true&theme=radical)
+![JustNotJinx](https://github.com/JustnotJinx)
